@@ -30,10 +30,10 @@ An
 
 This screenshot shows the full execution of the program, including adding books, removing outdated entries, purchasing, and error handling for out-of-stock and invalid ISBN cases.
 
-![Full Output with Error Handling](ScreenshotsResults/output-1.png)
+![Full Output with Error Handling](ScreenshotsResults/Output-1.png)
 
 ### 2. Clean output without errors
 
 This screenshot shows normal output for adding books and successful purchases, without triggering any errors.
 
-![Clean Output](ScreenshotsResults/output-2.png)
+![Clean Output](ScreenshotsResults/Output-2.png)
